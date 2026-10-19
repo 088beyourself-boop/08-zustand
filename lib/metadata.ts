@@ -1,4 +1,4 @@
-export const SITE_URL = 'https://notehub.com';
+export const SITE_URL = 'https://08-zustand-psi-orcin.vercel.app';
 
 export const OPEN_GRAPH_IMAGE = {
   url: 'https://ac.goit.global/fullstack/react/notehub-og-meta.jpg',
